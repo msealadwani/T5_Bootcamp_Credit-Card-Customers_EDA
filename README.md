@@ -4,7 +4,7 @@ A business manager of a consumer credit card portfolio is facing the problem of 
 This study aims to predict of which customer is going to get churned so they can proactively go to the customer to provide them better services, by analyzing the data.
 
 # Dataset
-To achieve the goal of this study the dataset Credit Card Customers will be used. This dataset can be found at [Kaggle](https://www.kaggle.com/sakshigoyal7/credit-card-customers). **There is 10128 rows and 15 columns.**
+To achieve the goal of this study the dataset Credit Card Customers will be used. This dataset can be found at [Kaggle](https://www.kaggle.com/sakshigoyal7/credit-card-customers). **There is 10128 rows and 23 columns.**
 
 This dataset contains **15 features**:
 
