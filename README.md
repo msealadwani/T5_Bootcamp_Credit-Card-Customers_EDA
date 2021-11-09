@@ -36,7 +36,7 @@ There are tools that will be used to achieve the goal of this study, such as: pa
 
 
 ## Questions that needs to be answered:
-- Q1
-- Q2
-- Q3
-- Q4
+- Why do customers attrite?
+- What is the relationship between the customer age and attrition flag?
+- What happens if customers don't use their credit card for a year?
+- Does credit card limit	affiect on the customer choice to leave?
