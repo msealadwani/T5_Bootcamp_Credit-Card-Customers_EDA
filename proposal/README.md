@@ -42,4 +42,6 @@ There are tools that will be used to achieve the goal of this study, such as: pa
 - What is the relation between Income Category Credit limits?
 
 
+
+
 #### Maha Saad Aladwani
